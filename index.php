@@ -69,7 +69,7 @@ session_start();
                         <img src="images/favicon.png" width="30" height="30" class="d-inline-block align-top" alt=""> &nbsp;
                             <a class="navbar-brand" style="text-shadow: black 0.1em 0.1em 0.2em; " href="index.php">
                             
-                                Guía Comercial     
+                                Guía Comercial Acámbaro
                             </a>
                             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
                                 <span class="icon-menu"></span>
