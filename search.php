@@ -39,11 +39,11 @@ $paginas = ceil($total / $articulosPagina);
 	<!-- Mobile Specific Meta -->
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<!-- Author Meta -->
-	<meta name="author" content="Guía Comercial">
+	<meta name="author" content="Guía Comercial Acámbaro">
 	<!-- Meta Keyword -->
 	<meta name="keywords" content="Guía Comercial Acámbaro, Todo lo que buscas, encuentras, negocios, Acámbaro">
 	<!-- Meta Description -->
-	<meta name="description" content="Entra y descubre comercios cercanos a tu zona de una manera rápida y sencilla. En guiacomercial.com ¡Todo lo que buscas lo encuentras y lo que no también! Esta aplicación ha sido creada con el objetivo de apoyar a los negocios, profesionistas y personas que tienen algún oficio a darse a conocer por medio de la publicación de sus productos y servicios.">
+	<meta name="description" content="Entra y descubre comercios cercanos a tu zona de una manera rápida y sencilla. En guiacomercialacambaro.com ¡Todo lo que buscas lo encuentras y lo que no también! Esta aplicación ha sido creada con el objetivo de apoyar a los negocios, profesionistas y personas que tienen algún oficio a darse a conocer por medio de la publicación de sus productos y servicios.">
 	<!-- meta character set -->
 	<meta charset="UTF-8">
 	<!--Icon-->
@@ -567,7 +567,7 @@ $paginas = ceil($total / $articulosPagina);
 					<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
 					Copyright &copy;<script>
 						document.write(new Date().getFullYear());
-					</script> Todos los derechos reservados | guiacomercial.com
+					</script> Todos los derechos reservados | guiacomercialacambaro.com
 					<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
 				</p>
 				<div class="col-lg-4 col-sm-12 footer-social">

@@ -10,11 +10,11 @@ session_start();
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Author Meta -->
-    <meta name="author" content="MiAcambaro">
+    <meta name="author" content="Guía Comercial Acámbaro">
     <!-- Meta Keyword -->
-    <meta name="keywords" content="Guía Comercial, Todo lo que buscas, encuentras, negocios">
+    <meta name="keywords" content="Guía Comercial Acámbaro, Todo lo que buscas, encuentras, negocios">
     <!-- Meta Description -->
-    <meta name="description" content="Entra y descubre comercios cercanos a tu zona de una manera rápida y sencilla. En guiacomercial.com ¡Todo lo que buscas lo encuentras y lo que no también! Esta aplicación ha sido creada con el objetivo de apoyar a los negocios, profesionistas y personas que tienen algún oficio a darse a conocer por medio de la publicación de sus productos y servicios.">
+    <meta name="description" content="Guía Comercial Acámbaro, entra y descubre comercios cercanos a tu zona de una manera rápida y sencilla. En guiacomercialacambaro.com ¡Todo lo que buscas lo encuentras y lo que no también! Esta aplicación ha sido creada con el objetivo de apoyar a los negocios, profesionistas y personas que tienen algún oficio a darse a conocer por medio de la publicación de sus productos y servicios.">
     <!-- Page Title -->
     <title> Inicio | Guia Comercial</title>
     <!--Icon-->
@@ -319,7 +319,7 @@ session_start();
                 <div class="col-md-12">
                     <div class="copyright">
                         <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                        <p>Copyright &copy; 2022. Todos los derechos reservados |<a href="#"> guiacomercial.com </a></p>
+                        <p>Copyright &copy; 2022. Todos los derechos reservados |<a href="#"> guiacomercialacambaro.com </a></p>
                         <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                         <ul>
                             <li><a href="https://www.facebook.com/miacambaro.app.7" target="_blank"><span class="ti-facebook"></span></a></li>
