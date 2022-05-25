@@ -5,18 +5,6 @@ session_start();
 <!DOCTYPE html>
 <html lang="es-MX">
 <head>
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-NSY7H1BK2G"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-
-        function gtag() {
-            dataLayer.push(arguments);
-        }
-        gtag('js', new Date());
-
-        gtag('config', 'G-NSY7H1BK2G');
-    </script>
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -24,11 +12,11 @@ session_start();
     <!-- Author Meta -->
     <meta name="author" content="MiAcambaro">
     <!-- Meta Keyword -->
-    <meta name="keywords" content="MiAcambaro, Todo lo que buscas, encuentras, negocios, Acámbaro">
+    <meta name="keywords" content="Guía Comercial, Todo lo que buscas, encuentras, negocios">
     <!-- Meta Description -->
-    <meta name="description" content="Entra y descubre lugares en Acámbaro de una manera rápida y sencilla. En miacambaro.mx ¡Todo lo que buscas lo encuentras y lo que no también! Esta aplicación ha sido creada con el objetivo de apoyar a los negocios, profesionistas y personas que tienen algún oficio a darse a conocer por medio de la publicación de sus productos y servicios.">
+    <meta name="description" content="Entra y descubre comercios cercanos a tu zona de una manera rápida y sencilla. En guiacomercial.com ¡Todo lo que buscas lo encuentras y lo que no también! Esta aplicación ha sido creada con el objetivo de apoyar a los negocios, profesionistas y personas que tienen algún oficio a darse a conocer por medio de la publicación de sus productos y servicios.">
     <!-- Page Title -->
-    <title> Inicio | MiAcámbaro</title>
+    <title> Inicio | Guia Comercial</title>
     <!--Icon-->
     <link rel="shortcut icon" href="images/favicon.png">
     <!-- Bootstrap CSS -->
@@ -81,7 +69,7 @@ session_start();
                         <img src="images/favicon.png" width="30" height="30" class="d-inline-block align-top" alt=""> &nbsp;
                             <a class="navbar-brand" style="text-shadow: black 0.1em 0.1em 0.2em; " href="index.php">
                             
-                                MiAcámbaro     
+                                Guía Comercial     
                             </a>
                             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
                                 <span class="icon-menu"></span>
@@ -138,7 +126,7 @@ session_start();
                         <div class="row">
                             <div class="col-md-12">
                                 <div class="slider-content_wrap contenedor-texto">
-                                    <h1 class="tam" style="font-size: calc(1em + 1vw);">Buscador Comercial Acámbaro </h1>
+                                    <h1 class="tam" style="font-size: calc(1em + 1vw);">Buscador Comercial  </h1>
                                     <h1 style="font-size: calc(1.4em + 1vw); margin-bottom:8px;"><span class="typed"></span></h1>
                                     <!-- <h5><span class="typed"></span></h5> -->
                                 </div>
@@ -160,7 +148,7 @@ session_start();
                                 <br>
 
                                 <a href="registro.php">
-                                    <p style="font-size: 20px; color: #fff; text-shadow: black 0.1em 0.1em 0.2em; ">Registrate en | miacambaro.mx</p>
+                                    <p style="font-size: 20px; color: #fff; text-shadow: black 0.1em 0.1em 0.2em; ">Registrate en | guiacomercial.com</p>
                                     
                                 </a>
                              
@@ -331,7 +319,7 @@ session_start();
                 <div class="col-md-12">
                     <div class="copyright">
                         <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                        <p>Copyright &copy; 2020. Todos los derechos reservados |<a href="test.php"> miacambaro.mx </a></p>
+                        <p>Copyright &copy; 2022. Todos los derechos reservados |<a href="#"> guiacomercial.com </a></p>
                         <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                         <ul>
                             <li><a href="https://www.facebook.com/miacambaro.app.7" target="_blank"><span class="ti-facebook"></span></a></li>

@@ -5,25 +5,13 @@ session_start();
 <html lang="es-MX">
 
 <head>
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-NSY7H1BK2G"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-
-        function gtag() {
-            dataLayer.push(arguments);
-        }
-        gtag('js', new Date());
-
-        gtag('config', 'G-NSY7H1BK2G');
-    </script>
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Author Meta -->
-    <meta name="author" content="MiAcambaro">
+    <meta name="author" content="Guía Comercial">
     <!-- Meta Keyword -->
-    <meta name="keywords" content="MiAcambaro, Todo lo que buscas, encuentras, negocios, Acámbaro">
+    <meta name="keywords" content="Guía Comercial, Todo lo que buscas, encuentras, negocios, Acámbaro">
     <!-- Meta Description -->
     <meta name="description" content="Registra tu negocio de una manera rápida y sencilla y llega a más personas. En miacambaro.mx">
     <!-- Icon -->
@@ -49,7 +37,7 @@ session_start();
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.2/jquery.validate.min.js"></script>
     <script src="https://www.google.com/recaptcha/api.js?render=6LeRAtsZAAAAAFPj_jVnUreuGCaI8Z09QCG3kz9d"></script>
-    <title>Registra tu negocio | Mi Acámbaro</title>
+    <title>Registra tu negocio | Guía Comercial</title>
     <style>
         input {
             font-family: FontAwesome, "Open Sans", Verdana, sans-serif;
@@ -70,7 +58,7 @@ session_start();
                     <div class="col-md-12" style="background-color: #ff4a00">
                         <nav class="navbar navbar-expand-lg">
                             <a class="navbar-brand" href="index.php" style="color:white;">
-                                MiAcámbaro
+                               Guía Comercial
 
                             </a>
                             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">

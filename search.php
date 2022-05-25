@@ -36,33 +36,20 @@ $paginas = ceil($total / $articulosPagina);
 <html lang="es-MX">
 
 <head>
-	<!-- Global site tag (gtag.js) - Google Analytics -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=G-NSY7H1BK2G"></script>
-	<script>
-		window.dataLayer = window.dataLayer || [];
-
-		function gtag() {
-			dataLayer.push(arguments);
-		}
-		gtag('js', new Date());
-
-		gtag('config', 'G-NSY7H1BK2G');
-	</script>
 	<!-- Mobile Specific Meta -->
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
 	<!-- Author Meta -->
-	<meta name="author" content="MiAcambaro">
+	<meta name="author" content="Guía Comercial">
 	<!-- Meta Keyword -->
-	<meta name="keywords" content="MiAcambaro, Todo lo que buscas, encuentras, negocios, Acámbaro">
+	<meta name="keywords" content="Guía Comercial, Todo lo que buscas, encuentras, negocios, Acámbaro">
 	<!-- Meta Description -->
-	<meta name="description" content="Entra y descubre lugares en Acámbaro de una manera rápida y sencilla. En miacambaro.mx ¡Todo lo que buscas lo encuentras y lo que no también! Esta aplicación ha sido creada con el objetivo de apoyar a los negocios, profesionistas y personas que tienen algún oficio a darse a conocer por medio de la publicación de sus productos y servicios.">
+	<meta name="description" content="Entra y descubre comercios cercanos a tu zona de una manera rápida y sencilla. En guiacomercial.com ¡Todo lo que buscas lo encuentras y lo que no también! Esta aplicación ha sido creada con el objetivo de apoyar a los negocios, profesionistas y personas que tienen algún oficio a darse a conocer por medio de la publicación de sus productos y servicios.">
 	<!-- meta character set -->
 	<meta charset="UTF-8">
 	<!--Icon-->
 	<link rel="shortcut icon" href="images/favicon.png">
 	<!-- Site Title -->
-	<title>Buscar negocios | Mi Acámbaro</title>
+	<title>Buscar negocios | Guía Comercial</title>
 	<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet">
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
 	<!--CSS============================================= -->
@@ -84,7 +71,7 @@ $paginas = ceil($total / $articulosPagina);
 		<div class="container">
 			<div class="row align-items-center justify-content-between d-flex">
 				<div id="logo">
-					<a class="text-white" href="index.php">MiAcámbaro</a>
+					<a class="text-white" href="index.php">Guía Comercial</a>
 				</div>
 
 				<nav id="nav-menu-container">
@@ -580,7 +567,7 @@ $paginas = ceil($total / $articulosPagina);
 					<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
 					Copyright &copy;<script>
 						document.write(new Date().getFullYear());
-					</script> Todos los derechos reservados | miacambaro.mx
+					</script> Todos los derechos reservados | guiacomercial.com
 					<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
 				</p>
 				<div class="col-lg-4 col-sm-12 footer-social">

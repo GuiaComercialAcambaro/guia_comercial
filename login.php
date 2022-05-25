@@ -8,28 +8,15 @@ if (isset($_SESSION['idRol'])) {
 <html lang="es">
 
 <head>
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-NSY7H1BK2G"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-
-        function gtag() {
-            dataLayer.push(arguments);
-        }
-        gtag('js', new Date());
-
-        gtag('config', 'G-NSY7H1BK2G');
-    </script>
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Author Meta -->
-    <meta name="author" content="MiAcambaro">
+    <meta name="author" content="Guía Comercial">
     <!-- Meta Keyword -->
-    <meta name="keywords" content="MiAcambaro, Todo lo que buscas, encuentras, negocios, Acámbaro">
+    <meta name="keywords" content="Guía Comercial, Todo lo que buscas, encuentras, negocios, Acámbaro">
     <!-- Meta Description -->
-    <meta name="description" content="Entra y descubre lugares en Acámbaro de una manera rápida y sencilla.
-    En miacambaro.mx ¡Todo lo que buscas lo encuentras y lo que no también! Esta aplicación ha sido creada con el objetivo de apoyar a los negocios, profesionistas y personas que tienen algún oficio a darse a conocer por medio de la publicación de sus productos y servicios.">
+    <meta name="description" content="Entra y descubre comercios cercanos a tu zona de una manera rápida y sencilla. En guiacomercial.com ¡Todo lo que buscas lo encuentras y lo que no también! Esta aplicación ha sido creada con el objetivo de apoyar a los negocios, profesionistas y personas que tienen algún oficio a darse a conocer por medio de la publicación de sus productos y servicios.">
     <!-- Icon -->
     <link rel="shortcut icon" href="images/favicon.png">
     <!-- Fonts -->
@@ -54,7 +41,7 @@ if (isset($_SESSION['idRol'])) {
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.2/jquery.validate.min.js"></script>
 
-    <title>Login | Mi Acámbaro</title>
+    <title>Login |Guía Comercial</title>
 
     <style>
         input {
@@ -157,7 +144,7 @@ if (isset($_SESSION['idRol'])) {
                 <div class="col-md-12">
                     <div class="copyright">
                         <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                        <p>Copyright &copy; <?php echo date('Y') ?>. Todos los derechos reservados | miacambaro.mx</p>
+                        <p>Copyright &copy; <?php echo date('Y') ?>. Todos los derechos reservados | guiacomercial.com</p>
                         <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                         <ul>
                             <li><a href="#"><span class="ti-facebook"></span></a></li>

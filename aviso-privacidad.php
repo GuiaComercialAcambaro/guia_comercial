@@ -6,27 +6,15 @@ session_start();
 <html lang="es-MX">
 
 <head>
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-NSY7H1BK2G"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-
-        function gtag() {
-            dataLayer.push(arguments);
-        }
-        gtag('js', new Date());
-
-        gtag('config', 'G-NSY7H1BK2G');
-    </script>
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Author Meta -->
-    <meta name="author" content="MiAcambaro">
+    <meta name="author" content="Guía Comercial">
     <!-- Meta Keyword -->
-    <meta name="keywords" content="MiAcambaro, Todo lo que buscas, encuentras, negocios, Acámbaro">
+    <meta name="keywords" content="Guía Comercial, Todo lo que buscas, encuentras, negocios, Acámbaro">
     <!-- Meta Description -->
-    <meta name="description" content="Entra y descubre lugares en Acámbaro de una manera rápida y sencilla. En miacambaro.mx ¡Todo lo que buscas lo encuentras y lo que no también! Esta aplicación ha sido creada con el objetivo de apoyar a los negocios, profesionistas y personas que tienen algún oficio a darse a conocer por medio de la publicación de sus productos y servicios.">
+    <meta name="description" content="Entra y descubre comercios cercanos a tu zona de una manera rápida y sencilla. En guiacomercial.com ¡Todo lo que buscas lo encuentras y lo que no también! Esta aplicación ha sido creada con el objetivo de apoyar a los negocios, profesionistas y personas que tienen algún oficio a darse a conocer por medio de la publicación de sus productos y servicios.">
     <link rel="shortcut icon" href="images/favicon.png">
     <!-- Fonts -->
     <link rel="dns-prefetch" href="https://fonts.gstatic.com">
@@ -49,7 +37,7 @@ session_start();
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.2/jquery.validate.min.js"></script>
 
-    <title>Contacto | Mi Acámbaro</title>
+    <title>Contacto | Guía Comercial</title>
 
     <style>
         input {
@@ -71,7 +59,7 @@ session_start();
                     <div class="col-md-12" style="background-color: #ff4a00;">
                         <nav class="navbar navbar-expand-lg">
                             <a class="navbar-brand" href="index.php" style="color:white;">
-                                MiAcámbaro
+                                Guía Comercial
                                 <!-- <img src="images/logo.png" width="120" height="42" class="d-inline-block align-top" alt=""> -->
                             </a>
                             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
@@ -112,7 +100,7 @@ session_start();
 
                     <div class="col-12 display-4 mb-4 mt-4 text-center" style="font-size: calc(1.2em + 1vw); color:black;">Aviso de privacidad</div>
 
-                    <p><a href="https://www.miacambaro.mx">MiAcambaro</a> , es una plataforma web desarrollada en la ciudad de Acámbaro, Gto. México, esta fue creada como apoyo para los comercios que buscan darse a conocer,
+                    <p><a href="https://www.guiacomercial.com">Guía Comercial</a> , es una plataforma web desarrollada en la ciudad de Acámbaro, Gto. México, esta fue creada como apoyo para los comercios que buscan darse a conocer,
                         así como buscar una reactivación económica en la región de Acámbaro, Guanajuato. y sus zonas aledañas. Esta plataforma no busca fines de lucro y los recursos obtenidos para su mantenimiento, mejoras y nuevas funcionalidades, los ingresos se basan en cooperaciones o aportaciones de los negocios afilidos.</p>
                     <p> Esta plataforma es la responsable del uso y protección de sus datos personales, y al respecto le informamos a continuación.</p>
                     <p>Su información personal puede ser utilizada para las siguientes finalidades secundarias que no son necesarias para el servicio solicitado, pero que nos permiten y facilitan brindarle una mejor atención: </p>
@@ -124,7 +112,7 @@ session_start();
                     <p> En caso de que no desee que sus datos personales sean tratados para estos fines secundarios, desde este momento usted nos puede comunicar lo anterior a través del siguiente mecanismo: </p>
                     <ul>
                         <li>Enviar un mensaje al administrador de la plataforma por medio de la sección <a href="Contacto.php">Contacto</a></li>
-                        <li>Enviar un correo electrónico directamente al Administrador a la dirección <a href="mailto:admin@miacambaro.mx" target="_blank"> admin@miacambaro.mx </a></li>
+                        <li>Enviar un correo electrónico directamente al Administrador a la dirección <a href="mailto:admin@mguiacomercial" target="_blank"> admin@guiacomercial </a></li>
                     </ul>
                     <br>
                     <p>La negativa para el uso de sus datos personales para estas finalidades no podrá ser un motivo para que le neguemos los servicios y productos que solicita o contrata con nosotros.</p>
@@ -145,7 +133,7 @@ session_start();
                 <div class="col-md-12">
                     <div class="copyright">
                         <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                        <p>Copyright &copy; <?php echo date('Y') ?>. Todos los derechos reservados | miacambaro.mx</p>
+                        <p>Copyright &copy; <?php echo date('Y') ?>. Todos los derechos reservados | guiacomercial.com</p>
                         <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                         <ul>
                             <li><a href="#"><span class="ti-facebook"></span></a></li>
