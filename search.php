@@ -41,7 +41,7 @@ $paginas = ceil($total / $articulosPagina);
 	<!-- Author Meta -->
 	<meta name="author" content="Guía Comercial">
 	<!-- Meta Keyword -->
-	<meta name="keywords" content="Guía Comercial, Todo lo que buscas, encuentras, negocios, Acámbaro">
+	<meta name="keywords" content="Guía Comercial Acámbaro, Todo lo que buscas, encuentras, negocios, Acámbaro">
 	<!-- Meta Description -->
 	<meta name="description" content="Entra y descubre comercios cercanos a tu zona de una manera rápida y sencilla. En guiacomercial.com ¡Todo lo que buscas lo encuentras y lo que no también! Esta aplicación ha sido creada con el objetivo de apoyar a los negocios, profesionistas y personas que tienen algún oficio a darse a conocer por medio de la publicación de sus productos y servicios.">
 	<!-- meta character set -->
@@ -49,7 +49,7 @@ $paginas = ceil($total / $articulosPagina);
 	<!--Icon-->
 	<link rel="shortcut icon" href="images/favicon.png">
 	<!-- Site Title -->
-	<title>Buscar negocios | Guía Comercial</title>
+	<title>Buscar negocios | Guía Comercial Acámbaro</title>
 	<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet">
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
 	<!--CSS============================================= -->
@@ -71,7 +71,7 @@ $paginas = ceil($total / $articulosPagina);
 		<div class="container">
 			<div class="row align-items-center justify-content-between d-flex">
 				<div id="logo">
-					<a class="text-white" href="index.php">Guía Comercial</a>
+					<a class="text-white" href="index.php">Guía Comercial Acámbaro</a>
 				</div>
 
 				<nav id="nav-menu-container">
