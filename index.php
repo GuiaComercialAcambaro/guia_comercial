@@ -38,7 +38,7 @@ session_start();
     <link rel="stylesheet" href="css/whats.css">
 
      <!-- Page Title -->
-     <title>Inicio |Guía Comercial Acámbaro</title>
+     <title>Inicio | Guía Comercial Acámbaro</title>
    
 
 </head>
