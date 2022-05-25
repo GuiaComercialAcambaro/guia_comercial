@@ -15,8 +15,6 @@ session_start();
     <meta name="keywords" content="Guía Comercial Acámbaro, Todo lo que buscas, encuentras, negocios">
     <!-- Meta Description -->
     <meta name="description" content="Guía Comercial Acámbaro, entra y descubre comercios cercanos a tu zona de una manera rápida y sencilla. En guiacomercialacambaro.com ¡Todo lo que buscas lo encuentras y lo que no también! Esta aplicación ha sido creada con el objetivo de apoyar a los negocios, profesionistas y personas que tienen algún oficio a darse a conocer por medio de la publicación de sus productos y servicios.">
-    <!-- Page Title -->
-    <title> Inicio | Guia Comercial Acámbaro </title>
     <!--Icon-->
     <link rel="shortcut icon" href="images/favicon.png">
     <!-- Bootstrap CSS -->
@@ -38,6 +36,9 @@ session_start();
     <!-- Main CSS -->
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/whats.css">
+
+     <!-- Page Title -->
+     <title>Inicio |Guía Comercial Acámbaro</title>
    
 
 </head>
