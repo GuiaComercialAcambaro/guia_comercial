@@ -58,7 +58,7 @@ session_start();
                     <div class="col-md-12" style="background-color: #ff4a00">
                         <nav class="navbar navbar-expand-lg">
                             <a class="navbar-brand" href="index.php" style="color:white;">
-                               Guía Comercial
+                               Guía Comercial Acámbaro
 
                             </a>
                             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
